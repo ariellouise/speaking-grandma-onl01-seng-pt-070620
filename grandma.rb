@@ -13,9 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
-  if 
+  if phrase =
     puts
-  elseif
+  elseif phrase =
     puts
   else
     puts "HUH?! SPEAK UP, SONNY!"
