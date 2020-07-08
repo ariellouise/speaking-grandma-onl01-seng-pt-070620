@@ -18,5 +18,5 @@ def speak_to_grandma(phrase)
   elseif
     puts
   else
-    puts ""
+    puts "HUH?! SPEAK UP, SONNY!"
 end
